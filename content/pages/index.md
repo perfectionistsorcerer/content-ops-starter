@@ -4,14 +4,11 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: GO AND STUDY YOU LITTLE BRAT...
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Nobody's gonna sympathise u...
+    text: "You don't know what you can achieve. You are just wasting your time \U0001F621 \n\ngo studyy.........\n"
     actions:
       - label: Get started
         altText: ''
@@ -22,17 +19,8 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/1000339583.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -51,7 +39,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Nobody gives a fuck on u
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
