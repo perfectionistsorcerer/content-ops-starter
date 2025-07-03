@@ -39,7 +39,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Nobody gives a fuck on u
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
