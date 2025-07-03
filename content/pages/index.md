@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Nobody's gonna sympathise u...
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "You don't know what you can achieve. You are just wasting your time \U0001F621 \n\ngo studyy.........\n"
     actions:
       - label: Get started
         altText: ''
