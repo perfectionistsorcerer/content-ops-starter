@@ -7,7 +7,7 @@ sections:
       text: GO AND STUDY YOU LITTLE BRAT...
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Nobody's gonna sympathise u...
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
